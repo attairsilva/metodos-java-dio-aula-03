@@ -23,7 +23,7 @@ public class Quadrilatero {
     public static void xpto() {
 
         System.out.println("Antes");
-        return;
+        //return;
     }
 
     public static double abc() {
